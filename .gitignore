@@ -1,0 +1,6 @@
+.venv
+
+# Data
+customer_purchases.csv
+customer_survey.csv
+weather.csv
